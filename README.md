@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Development and Designing**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kishore-yogeswaran-7946291a6/**
+- 📫 Connect with me - [LinkedIn](https://www.linkedin.com/in/kishore-yogeswaran-7946291a6/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_ttxSIDU8YPyHjCepvisMHJlz1WnqoXG/view?usp=sharing](https://drive.google.com/file/d/1_ttxSIDU8YPyHjCepvisMHJlz1WnqoXG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_ttxSIDU8YPyHjCepvisMHJlz1WnqoXG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
