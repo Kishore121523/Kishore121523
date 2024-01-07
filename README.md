@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore Yogeswaran</h1>
+<h1 align="center">Hi, I'm Kishore Yogeswaran</h1>
 <h3 align="center">Hola! Meet Kishore, myself a Web Developer, Designer and AI/ML enthusiasts, working on challenging projects. I look forward to collaborating with others in the field of development and designing. I hope I can help it with all my capabilities. Cheers</h3>
 
 - 🔭 Here's my [Portfolio](https://portfolio-kishore.netlify.app/)
