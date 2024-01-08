@@ -1,8 +1,3 @@
-
-<div align="center">
-  [![MasterHead](https://i.pinimg.com/originals/f2/04/c3/f204c3f8fb909c80e8b70e82e9b4da8b.gif)](https://portfolio-kishore.netlify.app)
-</div>
-
 <p align="center">
   <a href="https://portfolio-kishore.netlify.app">
     <img src="https://i.pinimg.com/originals/f2/04/c3/f204c3f8fb909c80e8b70e82e9b4da8b.gif" alt="MasterHead">
