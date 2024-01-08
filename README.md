@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://portfolio-kishore.netlify.app">
-    <img src="https://i.pinimg.com/originals/f2/04/c3/f204c3f8fb909c80e8b70e82e9b4da8b.gif" alt="MasterHead">
+    <img  width="100%" src="https://i.pinimg.com/originals/f2/04/c3/f204c3f8fb909c80e8b70e82e9b4da8b.gif" alt="MasterHead">
   </a>
 </p>
 
