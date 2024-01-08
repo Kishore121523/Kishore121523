@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f2/04/c3/f204c3f8fb909c80e8b70e82e9b4da8b.gif)](https://portfolio-kishore.netlify.app/)
+
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/f2/04/c3/f204c3f8fb909c80e8b70e82e9b4da8b.gif"/>
 
 <h1 align="center">Hi, I'm Kishore Yogeswaran 👋</h1>
