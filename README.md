@@ -10,8 +10,6 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif"/>
 
-<br>
-
 - 🔭 Here's my [Portfolio](https://portfolio-kishore.netlify.app/)
 
 - 🌱 I’m currently learning **DSA**
