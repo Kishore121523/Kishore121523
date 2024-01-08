@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Kishore Yogeswaran 👋</h1>
 <h3 align="center">Hola! Meet Kishore, a Web Developer, Designer, and AI/ML enthusiast working on challenging projects. I look forward to collaborating with others in the field of development and design. I hope to help it with all my capabilities. Cheers</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif"/>
 
 <br>
 
