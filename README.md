@@ -8,7 +8,7 @@
 <h3 align="center">Hola! Meet Kishore, a Web Developer, Designer, and AI/ML enthusiast working on challenging projects. I look forward to collaborating with others in the field of development and design. I hope to help it with all my capabilities. Cheers</h3>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif"/>
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif"/>
 
 - 🔭 Here's my [Portfolio](https://portfolio-kishore.netlify.app/)
 
