@@ -37,12 +37,13 @@
 ### My Stats: 
 <div style="display: flex;">
   <div style="flex: 1; background-color: lightblue;">
-      ![Kishore's Github](https://github-readme-stats.vercel.app/api?username=Kishore121523&show_icons=true_color=fff&theme=algolia)  
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishore121523&show_icons=true&theme=algolia)
   </div>
   <div style="flex: 1; background-color: lightgreen;">
-    ![Kishore's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kishore121523&theme=algolia) 
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kishore121523&theme=algolia)
   </div>
 </div>
+
 
 
 ---
