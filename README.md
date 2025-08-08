@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Kishore Yogeswaran 👋</h1>
-<h3 align="center">Hola! Meet Kishore, a Web Developer, Designer, and AI/ML enthusiast working on challenging projects. I look forward to collaborating with others in the field of development and design. I hope to help it with all my capabilities. Cheers</h3>
+<h3 align="center">Full Stack Developer with a focus on building GenAI-powered applications. I have hands-on experience developing end-to-end solutions using React.js, Next.js, Node.js, Firebase, and cloud platforms like Azure and AWS </h3>
 
 <br>
 <img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif"/>
