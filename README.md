@@ -32,15 +32,14 @@
 
 ---
 ### My Stats: 
-![Kishore's Github](https://github-readme-stats.vercel.app/api?username=Kishore121523&show_icons=true_color=fff&theme=algolia)  ![Kishore's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kishore121523&theme=algolia) 
+![Kishore's Github](https://github-readme-stats.vercel.app/api?username=Kishore121523&show_icons=true_color=fff&theme=algolia)  
+![Kishore's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kishore121523&theme=algolia) 
 
 ---
 ### Github Trophies: 
 
 ![](https://github-profile-trophy.vercel.app/?username=Kishore121523&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
   
-
-
 
 ---
 ### Github Trophies: 
